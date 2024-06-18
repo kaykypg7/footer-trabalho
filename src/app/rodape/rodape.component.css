@@ -8,11 +8,12 @@
     list-style: none;
 }
 
-body {
+footer{
     background-color: white;
 }
 
 .conteiner {
+    
     display: inline-flex;
     align-items: center;
     text-decoration: none;
